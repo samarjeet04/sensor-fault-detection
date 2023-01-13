@@ -8,4 +8,5 @@ dill
 scipy
 fastapi
 uvicorn
+
 -e .
